@@ -1,0 +1,8 @@
+Question 1: Before the line is executed
+
+Question 2: Will continue to run the program until it is finished, it hits another breakpoint or is manually terminated
+
+Question 3:
+    Step Over: Doesn't go into the method just simply goes to the next line, even if that line isn't highlighted for debugging
+    Step Into: Goes to the method that is being called
+    Step Out: Brings you back to the method that was originally called, it also acts like step over but jumps to the next breakpoint
